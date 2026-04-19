@@ -5,7 +5,7 @@
 
 <br/>
 
-<!-- ░░░ PURPLE TYPING ANIMATION ░░░ -->
+<!-- ░░░ TYPING ANIMATION ░░░ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=1800&pause=400&color=BF00FF&center=true&vCenter=true&width=680&lines=▸+Exploring+the+mind+of+machines+🧠;▸+Breaking+systems+to+understand+them+🔓;▸+Neural+nets+%26+exploit+kits+💀;▸+Training+models+|+Finding+cracks+⚡;▸+AI+is+the+new+attack+surface+🌐;▸+Local+LLM.+Zero+cloud.+Full+control.+🤖;▸+Adversarial+ML+%7C+Prompt+Injection+%7C+CTFs+🕳️" />
 
 <br/><br/>
@@ -32,7 +32,7 @@
 <!-- ░░░ WHOAMI ░░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=1500&pause=9999&color=BF00FF&center=true&vCenter=true&width=400&lines=〔+whoami+〕" />
+## 〔 🧬 `whoami` 🧬 〕
 
 </div>
 
@@ -79,7 +79,7 @@ class Sherdil08:
 <!-- ░░░ STATS ░░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=9999&color=BF00FF&center=true&vCenter=true&width=500&lines=⚡+~%2Fstats+--verbose" />
+## ⚡ `~/stats --verbose` ⚡
 
 <br/>
 
@@ -92,7 +92,7 @@ class Sherdil08:
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sherdil08&theme=darkhub&no-frame=true&column=7&margin-w=6&title_color=bf00ff" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sherdil08&theme=darkhub&no-frame=true&column=7&margin-w=6" />
 
 </div>
 
@@ -107,7 +107,7 @@ class Sherdil08:
 <!-- ░░░ AI/ML ARSENAL ░░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=9999&color=BF00FF&center=true&vCenter=true&width=500&lines=🧠+AI+%2F+ML+Arsenal" />
+## 🧠 `AI / ML Arsenal` 🧠
 
 <br/>
 
@@ -133,7 +133,7 @@ class Sherdil08:
 <!-- ░░░ HACKER TOOLKIT ░░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=9999&color=BF00FF&center=true&vCenter=true&width=500&lines=🔓+Hacker+Toolkit" />
+## 🔓 `Hacker Toolkit` 💀
 
 <br/>
 
@@ -159,7 +159,7 @@ class Sherdil08:
 <!-- ░░░ DEV STACK ░░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=9999&color=BF00FF&center=true&vCenter=true&width=500&lines=🌐+Dev+Stack" />
+## 🌐 `Dev Stack` ⚙️
 
 <br/>
 
@@ -188,7 +188,7 @@ class Sherdil08:
 <!-- ░░░ LOCAL AI SETUP ░░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=9999&color=BF00FF&center=true&vCenter=true&width=600&lines=🤖+Local+AI+—+Zero+Cloud.+Full+Control." />
+## 🤖 `Local AI — Zero Cloud. Full Control.` 🤖
 
 <br/>
 
@@ -208,7 +208,7 @@ class Sherdil08:
 <!-- ░░░ VS CODE EXTENSIONS ░░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=9999&color=BF00FF&center=true&vCenter=true&width=600&lines=🧩+VS+Code+—+Extension+Loadout" />
+## 🧩 `VS Code — Extension Loadout` 🧩
 
 <br/>
 
@@ -259,7 +259,7 @@ class Sherdil08:
 <!-- ░░░ ACTIVITY GRAPH ░░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=9999&color=BF00FF&center=true&vCenter=true&width=500&lines=📡+Neural+Commit+Activity" />
+## 📡 `Neural Commit Activity` 📡
 
 <br/>
 
@@ -272,7 +272,7 @@ class Sherdil08:
 <!-- ░░░ SNAKE ░░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=9999&color=BF00FF&center=true&vCenter=true&width=560&lines=🐍+Neural+Snake+—+Consuming+Commits" />
+## 🐍 `Neural Snake — Consuming Commits` 🐍
 
 <br/>
 
